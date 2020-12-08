@@ -1,4 +1,4 @@
-# ### Hello, I'm Rohit  - AKA [ded](https://rohitprofile12.herokuapp.com) 👋
+### Hello, I'm Rohit  - AKA [ded](https://rohitprofile12.herokuapp.com) 👋
 
 ## [ded](https://rohitprofile12.herokuapp.com)
 
