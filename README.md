@@ -6,9 +6,8 @@
 ### Currently Studying Bsc. CSIT (2nd Semester)
 
 - 🔭 I like to write clean code.
-- 🌱 I’m currently learning Core Python 🤣
+- 🌱 I’m currently learning Core Python.
 - 👯 I’m looking to collaborate with other geeks in python and music
-- 🥅 2021 Goals: Create more Real World Projects and also have a girlfriend
 - ⚡ Interest : I love to watch walls and play guitar 
 
 ### Connect with me:
