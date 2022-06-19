@@ -2,13 +2,12 @@
 
 ## [ded](https://rohitprofile12.herokuapp.com)
 
-## I'm a Student, Developer, and Musician!!
-### Currently Studying Bsc. CSIT (2nd Semester)
+## I'm a Developer
+### Currently Studying Bsc. CSIT (4nd Semester)
 
 - 🔭 I like to write clean code.
 - 🌱 I’m currently learning Core Python.
-- 👯 I’m looking to collaborate with other geeks in python and music
-- ⚡ Interest : I love to watch walls and play guitar 
+- 👯 I’m looking to collaborate with other geeks in django and react
 
 ### Connect with me:
 
@@ -41,6 +40,5 @@
 
 [website]: https://rohitprofile12.herokuapp.com
 
-[twitter]:https://twitter.com/rohitbh17416878
-[instagram]: https://www.instagram.com/rohitbhandari.69/
+[twitter]:https://twitter.com/rohitbandari69/
 
