@@ -1,6 +1,5 @@
-### Hello, I'm Rohit  - AKA [ded](https://rohitprofile12.herokuapp.com) 👋
+### Hello, I'm Rohit
 
-## [ded](https://rohitprofile12.herokuapp.com)
 
 ## I'm a Developer
 ### Currently Studying Bsc. CSIT (4nd Semester)
