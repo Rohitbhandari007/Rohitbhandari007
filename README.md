@@ -1,4 +1,4 @@
-### ![](https://komarev.com/ghpvc/?username=rohitbhandari007&color=blueviolet)
+### ![](https://komarev.com/ghpvc/?username=rohitbhandari007&color=lightgrey)
 
 
 
