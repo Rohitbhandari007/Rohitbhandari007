@@ -2,21 +2,12 @@
 
 
 
-## I'm a Developer
-### Currently Studying Bsc. CSIT (4nd Semester)
+## I'm a Web Developer 
 
-- 🔭 I like to write clean code.
-- 🌱 I’m currently learning Core Python.
-- 👯 I’m looking to collaborate with other geeks in django and react
-
-### Connect with me:
+- I like to write clean code.
+- I’m looking to collaborate with other geeks in django and react
 
 
-[<img align="left" alt="ded | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="ded | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -40,5 +31,4 @@
 
 [website]: https://rohitprofile12.herokuapp.com
 
-[twitter]:https://twitter.com/rohitbandari69/
 
