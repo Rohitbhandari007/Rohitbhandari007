@@ -14,6 +14,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhandari007&theme=dark&background=000000" alt="meekunn" /></p>
 
-[website]: https://rohitprofile12.herokuapp.com
-
+https://rohitbhandari007.github.io/portfoliomain/
 
