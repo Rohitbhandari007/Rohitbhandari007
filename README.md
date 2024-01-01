@@ -4,8 +4,7 @@
 
 ## I build everything
 
-- I like to write clean code.
-- I’m looking to collaborate with other geeks in django and react
+
 
 
 
